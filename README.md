@@ -20,10 +20,9 @@ To do so, digital tools could be useful to :
   ## Phase 2 : Inference, Exploratory Edition and Selection of Corpuses
   ![Pipeline of the Phase 2 of the MEGV Project](images/Phase2_MEGV_edition_exploratoire.drawio.png)
   - Preparation of JPG files for Inference :
-      - Script to clean image orientation (for images taken with an iOS device) : pending upload
-      - Python script to assign an unique name to the files : 
-  - Data derived from HTR inference : 
-  - Python and XSLT scripts to create an exploratory edition of the collections : 
+      - Script to clean image orientation (for images taken with an iOS device) : [Process to clean up images' EXIF](https://github.com/Masculinites-Esclavagistes/Cleaning_up_images_exif)
+  - Data derived from HTR inference : (expected upload date : 2028)
+  - Python and XSLT scripts to create an exploratory edition of the collections : []
 
   ## Phase 3 : Critical Edition of the Selected Corpuses
    ![Pipeline of the Phase 3 of the MEGV Project](images/Phase3_critical_edition_MEGV.drawio.png)
