@@ -11,12 +11,13 @@ To do so, digital tools could be useful to :
 - prepare and facilitate the exploitation and analysis of the corpuses.
 
   ## Phase 1 : Training HTR and Segmentation models
-![Pipeline of the Phase 1 of the MEGV Project]()
+![Pipeline of the Phase 1 of the MEGV Project](images/Phase1_Training_Models.drawio.png)
   - Training Data :
   - Segmentation model :
   - HTR model : 
 
   ## Phase 2 : Inference, Exploratory Edition and Selection of Corpuses
+  ![Pipeline of the Phase 2 of the MEGV Project](images/Phase2_MEGV_edition_exploratoire.drawio.png)
   - Preparation of JPG files for Inference :
     -- Script to clean image orientation (for images taken with an iOS device) : 
     -- Python script to assign an unique name to the files : 
@@ -24,6 +25,7 @@ To do so, digital tools could be useful to :
   - Python and XSLT scripts to create an exploratory edition of the collections : 
 
   ## Phase 3 : Critical Edition of the Selected Corpuses
+   ![Pipeline of the Phase 3 of the MEGV Project](images/Phase3_critical_edition_MEGV.drawio.png)
   - Editorial Models :
   - Script to transform XML-TEI files to DOCX files for editorial reviews and corrections
   - Data of the critical edition of corpuses :  
