@@ -22,10 +22,10 @@ To do so, digital tools could be useful to :
   - Preparation of JPG files for Inference :
       - Script to clean image orientation (for images taken with an iOS device) : [Process to clean up images' EXIF](https://github.com/Masculinites-Esclavagistes/Cleaning_up_images_exif)
   - Data derived from HTR inference : (expected upload date : 2028)
-  - Python and XSLT scripts to create an exploratory edition of the collections : []
+  - Python and XSLT scripts to create an exploratory edition of the collections : [Pipeline to create an exploratory edition of corpuses](https://github.com/Masculinites-Esclavagistes/Pipeline_Exploratory_Edition)
 
   ## Phase 3 : Critical Edition of the Selected Corpuses
    ![Pipeline of the Phase 3 of the MEGV Project](images/Phase3_critical_edition_MEGV.drawio.png)
-  - Editorial Models :
-  - Script to transform XML-TEI files to DOCX files for editorial reviews and corrections
-  - Data of the critical edition of corpuses :  
+  - Editorial Models : [Draf structure of the edition of plantation correspondences](https://github.com/Masculinites-Esclavagistes/Draft-structure-of-the-TEI-edition-of-plantation-correspondences) 
+  - Script to transform XML-TEI files to DOCX files for editorial reviews and corrections : [TEI2DOCX](https://github.com/Masculinites-Esclavagistes/TEI2DOCX)
+  - Data of the critical edition of corpuses : (expected upload date : 2028)
