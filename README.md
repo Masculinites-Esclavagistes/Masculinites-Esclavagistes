@@ -12,15 +12,16 @@ To do so, digital tools could be useful to :
 
   ## Phase 1 : Training HTR and Segmentation models
 ![Pipeline of the Phase 1 of the MEGV Project](images/Phase1_Training_Models.drawio.png)
-  - Training Data :
-  - Segmentation model :
-  - HTR model : 
+  - Training Data : [MEGV-FR-MSS-18](https://github.com/Masculinites-Esclavagistes/MEGV-FR-MSS-18)
+  - Testing Data : [MEGV-FR-MSS-18-TEST](https://github.com/Masculinites-Esclavagistes/MEGV-FR-MSS-18-TEST)
+  - Segmentation model : [seg_megv.pt](https://github.com/Masculinites-Esclavagistes/MEGV-FR-MSS-18/releases/download/v.2.0.0/seg_megv.pt)
+  - HTR models : [FoNDUE-GD-MEGV](https://github.com/Masculinites-Esclavagistes/MEGV-FR-MSS-18/releases/download/v.1.0.0/fondue_gd_megv.mlmodel) ; [FoNDUE-GD-MEGV-v2](https://github.com/Masculinites-Esclavagistes/MEGV-FR-MSS-18/releases/download/v.2.0.0/fondue_gd_megv_v2.mlmodel)
 
   ## Phase 2 : Inference, Exploratory Edition and Selection of Corpuses
   ![Pipeline of the Phase 2 of the MEGV Project](images/Phase2_MEGV_edition_exploratoire.drawio.png)
   - Preparation of JPG files for Inference :
-    -- Script to clean image orientation (for images taken with an iOS device) : 
-    -- Python script to assign an unique name to the files : 
+      - Script to clean image orientation (for images taken with an iOS device) : pending upload
+      - Python script to assign an unique name to the files : 
   - Data derived from HTR inference : 
   - Python and XSLT scripts to create an exploratory edition of the collections : 
 
